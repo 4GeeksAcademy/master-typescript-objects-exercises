@@ -8,6 +8,7 @@
     "us": "55 auto-graded TypeScript exercises on structured object data (Skill 8.3). Practice interfaces, optional fields, and object manipulation with strict typing.",
     "es": "55 ejercicios autocorregidos de TypeScript sobre datos estructurados de objetos (Skill 8.3). Practica interfaces, campos opcionales y manipulación de objetos con tipado estricto."
   },
+  "preview": "https://raw.githubusercontent.com/4GeeksAcademy/master-typescript-objects-exercises/main/preview.jpeg",
   "difficulty": "INTERMEDIATE",
   "duration": null,
   "projectType": "exercise",
