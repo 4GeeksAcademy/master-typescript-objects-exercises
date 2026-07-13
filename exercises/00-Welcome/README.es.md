@@ -15,7 +15,8 @@ En este LearnPack vas a practicar TypeScript resolviendo ejercicios progresivos 
 
 ## Enfoque de este LearnPack
 
-- **Skill 8.3** (Datos estructurados de objetos en TypeScript): `001-055`
+- **Rango:** `001-055`
+- **Enfoque:** interfaces, propiedades opcionales, datos anidados, mutación vs inmutabilidad y paso por valor o referencia
 - **Dificultad:** intermedio
 
 Cuando estés listo, haz clic en **Next** arriba a la derecha.

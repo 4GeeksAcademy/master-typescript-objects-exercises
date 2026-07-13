@@ -15,7 +15,8 @@ In this LearnPack, you will practice TypeScript by solving progressive exercises
 
 ## Focus of this LearnPack
 
-- **Skill 8.3** (Structured object data in TypeScript): `001-055`
+- **Range:** `001-055`
+- **Focus:** interfaces, optional properties, nested data, mutation vs immutable patterns, and pass-by-value/reference
 - **Difficulty:** intermediate
 
 When ready, click **Next** at the top right.

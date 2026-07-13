@@ -2,7 +2,7 @@
   "name": "master-typescript-objects-exercises",
   "version": "1.0.0",
   "private": true,
-  "description": "55 auto-graded TypeScript exercises on structured object data (Skill 8.3). Practice interfaces, optional fields, and object manipulation with strict typing.",
+  "description": "55 auto-graded TypeScript exercises on structured object data. Practice interfaces, optional fields, and object manipulation with strict typing.",
   "scripts": {
     "typecheck": "tsc --noEmit -p tsconfig.json",
     "audit:signatures": "node scripts/audit-signatures.mjs",

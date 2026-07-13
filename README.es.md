@@ -42,8 +42,6 @@ learnpack start
 
 ## Bloque curricular
 
-### Skill 8.3: Datos estructurados de objetos en TypeScript
-
 - **Rango:** `001-055`
 - **Enfoque:** interfaces, propiedades opcionales, datos anidados, mutación vs inmutabilidad y paso por valor o referencia
 - **Dificultad:** intermedio

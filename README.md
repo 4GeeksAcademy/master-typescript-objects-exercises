@@ -42,8 +42,6 @@ learnpack start
 
 ## Curriculum block
 
-### Skill 8.3: Structured object data in TypeScript
-
 - **Range:** `001-055`
 - **Focus:** interfaces, optional properties, nested data, mutation vs immutable patterns, and pass-by-value/reference
 - **Difficulty:** intermediate
